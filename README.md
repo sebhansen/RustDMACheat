@@ -1,6 +1,12 @@
+## This is a fork of https://github.com/IntelSDM/RustDMACheat
+I will be attempting to use this to implement some features I'd like to see myself as well as update offsets.
+I have never tried doing anything in c++ that wasnt complete copy paste, so this is going to be exciting :D
+Dont expect anything, as I probably will let this die at some point :/
+
+Huge shoutout to [IntelSDM]((https://github.com/IntelSDM)) for the very nice base.
+
 # Rust DMA Cheat
 A little DMA cheat for Rust. Some basic functions. A basic and easy to update SDK. 
-
 
 ## Showcase
 <p align="Left">
